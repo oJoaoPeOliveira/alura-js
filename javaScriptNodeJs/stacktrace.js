@@ -17,3 +17,10 @@ console.log(inexistente);
     Mostra o caminho, linha e caracter.
     Essa lista é chamada de stacktrace.
 */
+
+/*
+    RangeError -> O código recebe um inteiro como é para receber mas teria que ser
+    Maior ou igual que 0 e acaba recebendo -1
+*/
+
+// TypeError -> Esperava receber um tipo de dado específico
